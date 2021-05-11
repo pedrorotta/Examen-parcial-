@@ -1,0 +1,2 @@
+# Examen-parcial-
+Resolver los siguientes problemas en un archivo .ipynb. Este archivo debe ser guardado en este formato y debe tener el nombre : _Nombre.Apellido.ipynb. También puede ser guardado dentro de un zip con el mismo nombre.   Nota : El código debe estar comentado y se debe analizar debidamente el proceso  La duración de este examen está considerada para 2 horas, pero por motivos de virtualidad usted tendrá 3 horas para resolverla   Plazo máximo de entrega : 11pm. Correo de entrega : pedro290696@gmail.com
